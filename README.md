@@ -185,8 +185,6 @@ git push origin main
 - ✅ `Corregido diámetro de pasador en unión antebrazo-muñeca`
 - ❌ `actualización` / `cambios` / `fix`
 
-El repositorio acumula **47 commits** distribuidos entre los 5 integrantes del equipo.
-
 ---
 
 ## 📚 Bibliografía
