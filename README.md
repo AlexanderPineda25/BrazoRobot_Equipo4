@@ -51,9 +51,7 @@ BrazoRobot_Equipo4/
 │   ├── muneca.stl
 │   └── garra.stl
 ├── Docs/
-│   ├── Informe_Tecnico_Brazo_Robot.docx   # Informe técnico completo
-│   ├── planos.pdf                          # Planos técnicos con cotas
-│   └── lista_materiales.ods               # BOM completa
+│   ├── Informe_Tecnico_Brazo_Robot.pdf   # Informe técnico completo
 └── README.md
 ```
 
